@@ -6,4 +6,4 @@ price: 0
 toc_depth: 2
 allow_override: true
 chapters:
-  - "e2bac0"
+  - multiple_linear_regression
