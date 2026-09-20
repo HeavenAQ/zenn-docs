@@ -4,6 +4,7 @@ topics: []
 published: false
 price: 0
 toc_depth: 2
+allow_override: true
 chapters:
   - "7138aa"
   - "eac8f5"
