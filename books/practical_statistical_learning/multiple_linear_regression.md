@@ -1,4 +1,4 @@
 ---
-free: false
+title: "Multiple Linear Regression"
+free: true
 ---
-
